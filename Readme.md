@@ -8,7 +8,7 @@ Each folder represents a DApp and inside reside the smart contracts that are con
 
 ### Healthy Habits
 
-Andorid: https://play.google.com/store/apps/details?id=health.bowhead.com.bowheadhealth
+Android: https://play.google.com/store/apps/details?id=health.bowhead.com.bowheadhealth
 
 iOS: https://apps.apple.com/us/app/bowhead-health/id1385140037
 
